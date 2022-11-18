@@ -1,37 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+	<urlset xmlns="http://www.google.com/schemas/sitemap/0.84" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+		<url>
+			<loc>https://chikeluechinonso.github.io/</loc>
+			<changefreq>daily</changefreq>
+		</url>
 
+		<url>
+			<loc>https://chikeluechinonso.github.io/#header</loc>
+			<changefreq>daily</changefreq>
+		</url>
 
-<url>
-  <loc>https://chikeluechinonso.github.io/</loc>
-  <lastmod>2022-11-15T05:08:42+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://chikeluechinonso.github.io/portfolio-details.html</loc>
-  <lastmod>2022-11-15T05:08:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://chikeluechinonso.github.io/Under%20Construction.html</loc>
-  <lastmod>2022-11-15T05:08:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://chikeluechinonso.github.io/index.html</loc>
-  <lastmod>2022-11-15T05:08:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://chikeluechinonso.github.io/index</loc>
-  <lastmod>2022-11-15T05:08:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+		<url>
+			<loc>https://chikeluechinonso.github.io/#about</loc>
+			<changefreq>daily</changefreq>
+		</url>
 
+		<url>
+			<loc>https://chikeluechinonso.github.io/#resume</loc>
+			<changefreq>daily</changefreq>
+		</url>
 
-</urlset>
+		<url>
+			<loc>https://chikeluechinonso.github.io/#portfolio</loc>
+			<changefreq>daily</changefreq>
+		</url>
+
+		<url>
+			<loc>https://chikeluechinonso.github.io/#blog</loc>
+			<changefreq>daily</changefreq>
+		</url>
+
+		<url>
+			<loc>https://chikeluechinonso.github.io/#contact</loc>
+			<changefreq>daily</changefreq>
+		</url>
+
+		<url>
+			<loc>https://chikeluechinonso.github.io/portfolio-details.html</loc>
+			<changefreq>daily</changefreq>
+		</url>
+
+		<url>
+			<loc>https://chikeluechinonso.github.io/under construction.html</loc>
+			<changefreq>daily</changefreq>
+		</url>
+
+		<url>
+			<loc>https://chikeluechinonso.github.io/img/cv.png</loc>
+			<changefreq>daily</changefreq>
+		</url>
+
+	</urlset>
+
